@@ -20,7 +20,7 @@ Arduino Project at MSME Vishakpatnam
     | 2 | Digital Output |
     
   - **Buzzer, LEDS with arduino**
-    | Arduino | GND | 5V |
+    | Arduino | GND |  UNO Pin No |
     | :---: | :---: | :---: |
     | Buzzer | GND | 8 |
     | Green LED | GND | 5|
