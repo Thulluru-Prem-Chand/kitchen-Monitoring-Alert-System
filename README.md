@@ -1,5 +1,5 @@
 # Kitchen-Monitoring-Alert-System
-IOT Project at MSME Vishakpatnam
+Arduino Project at MSME Vishakpatnam
 
 ### Plannig of Design Circuit of HMAS
 - **Design 1:**
