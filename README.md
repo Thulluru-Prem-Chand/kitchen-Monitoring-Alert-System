@@ -1,4 +1,4 @@
-# Home-Monitoring-Alert-System
+# Kitchen-Monitoring-Alert-System
 IOT Project at MSME Vishakpatnam
 
 ### Plannig of Design Circuit of HMAS
