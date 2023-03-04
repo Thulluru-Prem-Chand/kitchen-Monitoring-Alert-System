@@ -1,7 +1,7 @@
 # Kitchen-Monitoring-Alert-System
 Arduino Project at MSME Vishakpatnam
 
-### Plannig of Design Circuit of HMAS
+### Design Circuit of KMAS
 - **Design 1:**
   ![image](https://user-images.githubusercontent.com/74300223/222870413-2f9a3c87-039d-4ea3-866b-90a212e6f16e.png)
 
