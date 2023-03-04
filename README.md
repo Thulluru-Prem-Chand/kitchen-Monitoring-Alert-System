@@ -56,3 +56,12 @@ Arduino Project at MSME Vishakpatnam
       delay(1000);
   }
 ```
+
+- **Result When in Safe Condition**
+  ![IMG20230217112619](https://user-images.githubusercontent.com/74300223/222869100-f10813eb-aa9d-4a45-a2c9-7a7e38eac591.jpg)
+
+- **Result When in Lekage of Gas Detected**
+  ![IMG20230217112645](https://user-images.githubusercontent.com/74300223/222869141-e77b1740-d550-4a87-ac6a-46ecf66f8df3.jpg)
+
+- **Result When in Fire or Flame Detected**
+  ![IMG20230217112120](https://user-images.githubusercontent.com/74300223/222869181-89787124-6473-4d0d-92eb-70e27203218a.jpg)
