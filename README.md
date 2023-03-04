@@ -2,7 +2,7 @@
 Arduino Project at MSME Vishakpatnam
 
 ### Design Circuit of KMAS
-- **Design 1:**
+- **Design:**
   ![image](https://user-images.githubusercontent.com/74300223/222870413-2f9a3c87-039d-4ea3-866b-90a212e6f16e.png)
 
 
